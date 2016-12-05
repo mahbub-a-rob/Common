@@ -4,7 +4,7 @@
   "dependencies": {
     "Microsoft.DotNet.Cli.Utils": "1.0.0-preview2-1-003177",
     "Microsoft.Extensions.PlatformAbstractions": "1.0.0-*",
-    "NETStandard.Library": "1.6.1-*"
+    "NETStandard.Library": "1.6.2-*"
   },
   "frameworks": {
     "net451": {},
